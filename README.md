@@ -1,4 +1,4 @@
-# Exercicio 02 de HTML e CSS.
+# Exercicio 03 de HTML e CSS.
 <h3>Exercício 03 do curso de HTML e CSS da plataforma Udemy.</h3>
 <h5>Tópicos abordados no exercício: Semântica de HTML e CSS, positions, cloud icons, box model CSS.</h5>
 
